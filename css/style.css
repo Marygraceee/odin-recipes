@@ -1,0 +1,54 @@
+#ramen
+{
+    color: brown;
+    font-size: 50px;
+   text-align: left;
+}
+
+#pizza
+{
+    color: red;
+    font-size: 50px;
+    text-align: left;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 100px;
+}
+
+body
+{
+    background-color: lightgrey;
+}
+
+div
+{
+    text-align: center;
+    font-size: 25px;
+    list-style-position: inside;
+}
+
+.foto
+{
+    width: 1000px;
+    height: auto;
+}
+
+.outro
+{
+    text-align: center;
+    font-size: 70px;
+}
+
+
+.inghow
+{
+    font-size: 60px;
+}
+
+.liste
+{
+    font-size: 20px;
+}
